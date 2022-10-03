@@ -1,7 +1,7 @@
 {
   "name": "gym-creative-repo",
   "private": true,
-  "description": "A simple website creative using React, GSAP and Locomotiv Scroll",
+  "description": "A simple creative website using React, GSAP and Locomotiv Scroll",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
